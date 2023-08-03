@@ -29,4 +29,4 @@ jobs:
           file: ./Dockerfile
           push: true # Will only build if this is not here
           tags: |
-            ghcr.io/Richard-Barrett/sodavlidator:latest
+            ghcr.io/sodavalidator/sodavlidator:latest
