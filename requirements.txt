@@ -17,7 +17,7 @@ markdown-it-py==3.0.0
 MarkupSafe==2.1.2
 mdurl==0.1.2
 monotonic==1.6
-mysql-connector-python==8.0.30
+mysql-connector-python==8.1.0
 numpy==1.25.2
 opentelemetry-api==1.16.0
 opentelemetry-exporter-otlp-proto-http==1.16.0
