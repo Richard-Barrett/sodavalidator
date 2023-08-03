@@ -1,4 +1,4 @@
-antlr4-python3-runtime==4.11.1
+antlr4-python3-runtime==4.13.0
 asn1crypto==1.5.1
 backoff==2.2.1
 certifi==2023.7.22
