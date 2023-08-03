@@ -1,0 +1,11 @@
+
+# FILES TO IGNORE FOR DOCKER IMAGE
+.gitignore
+configuration.yaml
+compose.yaml
+Dockerfile
+Makefile
+
+# DIRECTORIES TO IGRNORE FOR DOCKER IMAGE
+configs/*
+.github/*

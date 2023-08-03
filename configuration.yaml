@@ -1,0 +1,10 @@
+data_source PROD:
+  type: postgres
+  connection:
+    host: ${PROD_HOST}
+    port: "5432"
+    username: ${PROD_USERNAME}
+    password: ${PROD_PASSWORD}
+    database: ${PROD_DATABASE}
+  schema: public
+
