@@ -10,7 +10,7 @@ Deprecated==1.2.14
 filelock==3.12.2
 googleapis-common-protos==1.60.0
 ia-questionary==1.10.0
-idna==3.4
+idna==3.7
 inflect==6.2.0
 Jinja2==3.1.2
 markdown-it-py==3.0.0
