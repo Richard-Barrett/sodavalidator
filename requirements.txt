@@ -12,7 +12,7 @@ googleapis-common-protos==1.60.0
 ia-questionary==1.10.0
 idna==3.4
 inflect==6.2.0
-Jinja2==3.1.2
+Jinja2==3.1.4
 markdown-it-py==3.0.0
 MarkupSafe==2.1.2
 mdurl==0.1.2
