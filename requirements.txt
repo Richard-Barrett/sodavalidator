@@ -33,7 +33,7 @@ protobuf==3.19.6
 psycopg2-binary==2.9.6
 pycparser==2.21
 pycryptodomex==3.18.0
-pydantic==1.10.12
+pydantic==2.7.4
 Pygments==2.15.1
 PyJWT==2.8.0
 pyOpenSSL==23.2.0
